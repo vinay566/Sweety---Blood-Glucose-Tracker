@@ -1,0 +1,6 @@
+{
+  "name": "Sweety - Blood Glucose Tracker",
+  "description": "A full-stack blood glucose tracker application built with React, Node.js, Express, and PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
